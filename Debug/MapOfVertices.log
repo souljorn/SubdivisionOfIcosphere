@@ -1,0 +1,3 @@
+﻿  MapOfVertices.cpp
+f:\code\cop4730\mapofvertices\mapofvertices\mapofvertices\mapofvertices.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MapOfVertices.vcxproj -> F:\Code\Cop4730\MapOfVertices\MapOfVertices\Debug\MapOfVertices.exe
